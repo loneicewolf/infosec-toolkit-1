@@ -11,3 +11,8 @@ a 'toolkit' of 'toolkits'
 
 other 'toolkits'
 - https://github.com/indetectables-net/toolkit
+
+
+## What this is
+ I will be making this shortly
+ 
